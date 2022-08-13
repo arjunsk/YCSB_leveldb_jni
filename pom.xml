@@ -132,6 +132,7 @@ LICENSE file.
     <ignite.version>2.7.6</ignite.version>
     <infinispan.version>7.2.2.Final</infinispan.version>
     <kudu.version>1.11.1</kudu.version>
+    <leveldbjni-all.version>1.8</leveldbjni-all.version>
     <maprhbase.version>1.1.8-mapr-1710</maprhbase.version>
     <mongodb.version>3.11.0</mongodb.version>
     <mongodb.async.version>2.0.1</mongodb.async.version>
@@ -203,6 +204,7 @@ LICENSE file.
     <module>tablestore</module>
     <module>voltdb</module>
     <module>zookeeper</module>
+    <module>leveldb</module>
   </modules>
 
   <build>
